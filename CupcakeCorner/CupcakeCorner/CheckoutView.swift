@@ -1,9 +1,3 @@
-//
-//  CheckoutView.swift
-//  CupcakeCorner
-//
-//  Created by Paul Hudson on 18/11/2021.
-//
 
 import SwiftUI
 
